@@ -12,3 +12,11 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+.calva/output-window/output.calva-repl
+.clj-kondo/.cache/2020.12.12/clj/clojure-noob.core.transit.json
+clojure-noob/src/clojure_noob/core.clj
+.calva/output-window/.clj-kondo/.cache/2020.12.12/lock
+.clj-kondo/.cache/2020.04.05/lock
+.clj-kondo/.cache/2020.04.05/clj/clojure-noob.core.transit.json
+.lsp/sqlite.5.db
+clojure-noob/.calva/output-window/output.calva-repl
